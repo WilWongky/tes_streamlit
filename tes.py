@@ -9,5 +9,3 @@ hitung = st.button("Hitung Luas")
 if hitung :
     luas = panjang * lebar
     st.success (f"Luas Persegi Panjang = {luas}")
-    
-            
